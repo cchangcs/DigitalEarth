@@ -2,9 +2,9 @@
 DigitalEarth（基于OsgEarth+MFC）
 
 
-## 项目地址：链接：https://pan.baidu.com/s/1eLT8ntwhbyBPQQEU062c7A 
+## 项目地址：链接：https://pan.baidu.com/s/1fyczg7kpksJt-rBSu6APVQ
 
-## 提取码：nqx4 
+## 提取码：cg84
 
 ## 出现的问题及解决方案：
 ### 一、配置项目环境
